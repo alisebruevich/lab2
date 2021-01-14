@@ -35,6 +35,10 @@ p {
     width: 525px;
 }
 
+h1{
+	font-family: "Lucida Console", monospace;
+}
+
 .jumbotron {
 	position: relative;
 	background: none;
